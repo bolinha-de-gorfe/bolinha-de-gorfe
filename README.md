@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Meu nome é Marcio Samuel
+
+- Estou estudando na Alura (https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+- ### Você pode entrar em contato comigo
+
+00001093435331sp@al.educacao.sp.gov.br
+
 <!--
 **bolinha-de-gorfe/bolinha-de-gorfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
